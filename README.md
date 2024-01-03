@@ -1,2 +1,2 @@
 # PokerAI
-Project in progress, trained using Tensorflow keras and reinforcement learning 
+Poker bot trained using Tensorflow keras and reinforcement learning. Experimented with fully connected and convolutional layers and simulated various poker games.
